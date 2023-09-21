@@ -46,7 +46,7 @@ const config = {
     container: false
 };
 export const API_URL = 'https://52.66.33.247:8083';
-export const APP_URL = 'http://52.66.33.247:3000';
+export const APP_URL = 'http://52.66.33.247:3006';
 export const TRADINGVIEW_URL = 'https://in.tradingview.com/chart/?symbol=NSE%3A';
 export const SCREANER_URL = 'https://www.screener.in/company/';
 export default config;
